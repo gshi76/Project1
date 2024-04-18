@@ -5,3 +5,6 @@ From a quick skim of the data, heart disease is the leading cause of death natio
 Links to Dataset:
 https://www.cdc.gov/nchs/data-visualization/mortality-leading-causes/index.htm
 https://data.cdc.gov/Heart-Disease-Stroke-Prevention/Heart-Disease-Mortality-Data-Among-US-Adults-35-by/i2vk-mgdh/about_data
+
+Link to PowerPoint:
+https://docs.google.com/presentation/d/1ng1SKeLQfs1wEEng9e1PWu5umbZ-SZ-GlJGcHyckLgQ/edit?usp=sharing
