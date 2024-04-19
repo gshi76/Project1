@@ -8,3 +8,5 @@ https://data.cdc.gov/Heart-Disease-Stroke-Prevention/Heart-Disease-Mortality-Dat
 
 Link to PowerPoint:
 https://docs.google.com/presentation/d/1ng1SKeLQfs1wEEng9e1PWu5umbZ-SZ-GlJGcHyckLgQ/edit?usp=sharing
+
+For our analysis, we used ChatGPT, TA guidance, and course materials/lectures to aid in writing our code. 
